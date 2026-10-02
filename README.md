@@ -40,4 +40,7 @@ I use GitHub to document my learning journey, publish hands-on labs, and keep a 
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/ahmadhassan-itstudent)
 * 📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=ahmadhassan.itstudent@gmail.com)
+## 📈 GitHub Stats
+
+![Ahmad Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadhassan-it\&show_icons=true\&hide_border=true)
 

@@ -36,4 +36,9 @@ I'm focusing on building strong fundamentals through hands-on practice before mo
 ## 📊 GitHub Activity
 
 I use GitHub to document my learning journey, publish hands-on labs, and keep a record of my technical progress.
+## 📫 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/ahmadhassan-itstudent)
+* 📧 [Email](mailto:ahmadhassan.itstudent@gmail.com)
+* 🐙 [GitHub](https://github.com/ahmadhassan-it)
 

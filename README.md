@@ -43,4 +43,9 @@ I use GitHub to document my learning journey, publish hands-on labs, and keep a 
 ## 📈 GitHub Stats
 
 ![Ahmad Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadhassan-it\&show_icons=true\&hide_border=true)
+## 🛠️ Skills & Technologies
+
+* **Networking:** IPv4, Subnetting, VLANs, Trunking, Routing
+* **Tools:** Cisco Packet Tracer
+* **Currently Learning:** CCNA / Cisco Networking
 

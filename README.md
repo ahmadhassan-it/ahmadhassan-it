@@ -33,4 +33,7 @@ Hands-on networking labs covering VLANs, trunking, routing, subnetting, and othe
 * ⚙️ DevOps
 
 I'm focusing on building strong fundamentals through hands-on practice before moving to the next stage.
+## 📊 GitHub Activity
+
+I use GitHub to document my learning journey, publish hands-on labs, and keep a record of my technical progress.
 

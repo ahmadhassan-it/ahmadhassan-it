@@ -18,4 +18,19 @@ My goal is to build strong technical foundations first and gradually progress to
 Hands-on networking labs covering VLANs, trunking, routing, subnetting, and other CCNA topics.
 
 🔗 [View my CCNA Lab Notes](https://github.com/ahmadhassan-it/ccna-lab-notes)
+## 🛣️ Learning Roadmap
+
+**Current**
+
+* 🌐 Computer Networking
+* 🎓 CCNA
+* 🔧 Cisco Packet Tracer
+
+**Next**
+
+* 🐧 Linux
+* ☁️ Cloud Computing
+* ⚙️ DevOps
+
+I'm focusing on building strong fundamentals through hands-on practice before moving to the next stage.
 

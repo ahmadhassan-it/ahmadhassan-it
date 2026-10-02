@@ -39,6 +39,6 @@ I use GitHub to document my learning journey, publish hands-on labs, and keep a 
 ## 📫 Connect With Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/ahmadhassan-itstudent)
-* 📧 [Email](mailto:ahmadhassan.itstudent@gmail.com)
+* 📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=ahmadhassan.itstudent@gmail.com)
 * 🐙 [GitHub](https://github.com/ahmadhassan-it)
 

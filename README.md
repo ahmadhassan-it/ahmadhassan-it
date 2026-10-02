@@ -11,4 +11,11 @@ My goal is to build strong technical foundations first and gradually progress to
 * 🔧 **Cisco Packet Tracer & Networking Labs**
 * 🧩 **IPv4, Subnetting, VLANs, Trunking & Routing**
 * 📚 **Building practical networking knowledge through hands-on labs**
+## 🧪 Projects & Labs
+
+### 📘 CCNA Lab Notes
+
+Hands-on networking labs covering VLANs, trunking, routing, subnetting, and other CCNA topics.
+
+🔗 [View my CCNA Lab Notes](https://github.com/ahmadhassan-it/ccna-lab-notes)
 

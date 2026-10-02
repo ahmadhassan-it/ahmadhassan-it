@@ -40,5 +40,4 @@ I use GitHub to document my learning journey, publish hands-on labs, and keep a 
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/ahmadhassan-itstudent)
 * 📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=ahmadhassan.itstudent@gmail.com)
-* 🐙 [GitHub](https://github.com/ahmadhassan-it)
 
